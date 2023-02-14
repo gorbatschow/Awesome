@@ -1,11 +1,11 @@
 # Awesome-Sonar
 
-## Courses
+## Academic
 What | URL
 ---|---
 Dr. Merv Budge  - Radar Waveforms & Signal Processing        | http://www.ece.uah.edu/courses/material/EE710-Merv/
 Patrick Schaumont - Real Time Digital Signal Processing      | https://schaumont.dyn.wpi.edu/ece4703b20/lectures.html
-Dr. Steven A. Tretter - Signal Processing Theory  & Practice |  https://user.eng.umd.edu/~tretter
+Dr. Steven A. Tretter - Signal Processing Theory  & Practice | https://user.eng.umd.edu/~tretter
 Tom O'Haver - A Pragmatic Introduction to Signal Processing  | https://terpconnect.umd.edu/~toh/spectrum/TOC.html
 
 ## Tools
@@ -17,3 +17,8 @@ Signal Processing from SciPy                                | https://docs.scipy
 What | URL
 ---|---
 Sean Eron Anderson  - Bit Twiddling Hacks | http://graphics.stanford.edu/~seander/bithacks.html
+
+## Various
+What | URL
+---|---
+Robert Bristow-Johnson - Audio EQ Cookbook | https://webaudio.github.io/Audio-EQ-Cookbook/Audio-EQ-Cookbook.txt
