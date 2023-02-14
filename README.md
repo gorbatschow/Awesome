@@ -6,6 +6,7 @@ What | URL
 Dr. Merv Budge  - Radar Waveforms & Signal Processing        | http://www.ece.uah.edu/courses/material/EE710-Merv/
 Patrick Schaumont - Real Time Digital Signal Processing      | https://schaumont.dyn.wpi.edu/ece4703b20/lectures.html
 Dr. Steven A. Tretter - Signal Processing Theory  & Practice |  https://user.eng.umd.edu/~tretter
+Tom O'Haver - A Pragmatic Introduction to Signal Processing  | https://terpconnect.umd.edu/~toh/spectrum/TOC.html
 
 ## Tools
 What | URL
