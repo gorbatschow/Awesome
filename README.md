@@ -14,4 +14,4 @@ Signal Processing from SciPy                                | https://docs.scipy
 ## Programming Related
 What | URL
 ---|---
-C++ tricks | http://graphics.stanford.edu/~seander/bithacks.html
+Sean Eron Anderson  - Bit Twiddling Hacks | http://graphics.stanford.edu/~seander/bithacks.html
