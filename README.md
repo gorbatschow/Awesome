@@ -10,3 +10,8 @@ Patrick Schaumont - Real Time Digital Signal Processing     | https://schaumont.
 What | URL
 ---|---
 Signal Processing from SciPy                                | https://docs.scipy.org/doc/scipy/tutorial/signal.html
+
+## Programming Related
+What | URL
+---|---
+C++ tricks | http://graphics.stanford.edu/~seander/bithacks.html
