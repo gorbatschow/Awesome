@@ -3,8 +3,9 @@
 ## Courses
 What | URL
 ---|---
-Dr. Merv Budge  - Radar Waveforms & Signal Processing       | http://www.ece.uah.edu/courses/material/EE710-Merv/
-Patrick Schaumont - Real Time Digital Signal Processing     | https://schaumont.dyn.wpi.edu/ece4703b20/lectures.html
+Dr. Merv Budge  - Radar Waveforms & Signal Processing        | http://www.ece.uah.edu/courses/material/EE710-Merv/
+Patrick Schaumont - Real Time Digital Signal Processing      | https://schaumont.dyn.wpi.edu/ece4703b20/lectures.html
+Dr. Steven A. Tretter - Signal Processing Theory  & Practice |  https://user.eng.umd.edu/~tretter
 
 ## Tools
 What | URL
