@@ -3,15 +3,17 @@
 ## Academic
 What | URL
 ---|---
-Dr. Merv Budge  - Radar Waveforms & Signal Processing        | http://www.ece.uah.edu/courses/material/EE710-Merv/
+Merv Budge  - Radar Waveforms & Signal Processing            | http://www.ece.uah.edu/courses/material/EE710-Merv/
 Patrick Schaumont - Real Time Digital Signal Processing      | https://schaumont.dyn.wpi.edu/ece4703b20/lectures.html
-Dr. Steven A. Tretter - Signal Processing Theory  & Practice | https://user.eng.umd.edu/~tretter
+Steven A. Tretter - Signal Processing Theory  & Practice     | https://user.eng.umd.edu/~tretter
 Tom O'Haver - A Pragmatic Introduction to Signal Processing  | https://terpconnect.umd.edu/~toh/spectrum/TOC.html
+Vesa Välimäki - Audio Signal Processing                      | http://users.spa.aalto.fi/vpv/publications/
 
 ## Tools
 What | URL
 ---|---
 Signal Processing from SciPy                                | https://docs.scipy.org/doc/scipy/tutorial/signal.html
+Spatial Audio Software                                      | http://legacy.spa.aalto.fi/software/
 
 ## Programming Related
 What | URL
