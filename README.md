@@ -7,7 +7,7 @@ Merv Budge        | Radar Waveforms & Signal Processing      | http://www.ece.ua
 Patrick Schaumont | Real Time Digital Signal Processing      | https://schaumont.dyn.wpi.edu/ece4703b20/lectures.html
 Steven A. Tretter | Signal Processing Theory  & Practice     | https://user.eng.umd.edu/~tretter
 Tom O'Haver       | A Pragmatic Introduction to Signal Processing  | https://terpconnect.umd.edu/~toh/spectrum/TOC.html
-Vesa Välimäki     | Audio Signal Processing                  | http://users.spa.aalto.fi/vpv/publications/
+Vesa Välimäki     | Audio Signal Processing                  | http://users.spa.aalto.fi/vpv/
 David Forsyth     | Computer Vision & Machine Learning       | http://luthuli.cs.uiuc.edu/~daf/courses/
 
 ## Tools
