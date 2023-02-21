@@ -34,3 +34,4 @@ Robert Bristow-Johnson - Audio EQ Cookbook | https://webaudio.github.io/Audio-EQ
 
 ## Source Links
 - https://dspace.mit.edu/
+- https://worldradiohistory.com/hd2/
