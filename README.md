@@ -13,13 +13,19 @@ David Forsyth     | Computer Vision & Machine Learning       | http://luthuli.cs
 ## Tools
 What | URL
 ---|---
-Signal Processing from SciPy                                | https://docs.scipy.org/doc/scipy/tutorial/signal.html
-Spatial Audio Software                                      | http://legacy.spa.aalto.fi/software/
+Signal Processing from SciPy | https://docs.scipy.org/doc/scipy/tutorial/signal.html
+Spatial Audio Software       | http://legacy.spa.aalto.fi/software/
 
-## Programming Related
+## Programming
 What | URL
 ---|---
 Sean Eron Anderson  - Bit Twiddling Hacks | http://graphics.stanford.edu/~seander/bithacks.html
+
+## Magazine & Conference
+What | URL
+---|---
+Underwater Acoustics International Conference and Exhibition | https://www.uaconferences.org/
+Acoustics Today                                              | https://acousticstoday.org
 
 ## Various
 What | URL
