@@ -1,4 +1,4 @@
-# Awesome-Audio-Processing
+# Awesome
 
 ## Academic
 Author | What | URL
