@@ -9,7 +9,8 @@ Steven A. Tretter | Signal Processing Theory  & Practice     | https://user.eng.
 Tom O'Haver       | A Pragmatic Introduction to Signal Processing  | https://terpconnect.umd.edu/~toh/spectrum/TOC.html
 Vesa Välimäki     | Audio Signal Processing                  | http://users.spa.aalto.fi/vpv/
 David Forsyth     | Computer Vision & Machine Learning       | http://luthuli.cs.uiuc.edu/~daf/courses/
-
+Dan Ellis         | Audio Processing                         | https://www.ee.columbia.edu/~dpwe/resources/matlab/
+ 
 ## Tools
 What | URL
 ---|---
