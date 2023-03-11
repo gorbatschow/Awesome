@@ -10,7 +10,8 @@ Tom O'Haver       | A Pragmatic Introduction to Signal Processing  | https://ter
 Vesa Välimäki     | Audio Signal Processing                  | http://users.spa.aalto.fi/vpv/
 David Forsyth     | Computer Vision & Machine Learning       | http://luthuli.cs.uiuc.edu/~daf/courses/
 Dan Ellis         | Audio Processing                         | https://www.ee.columbia.edu/~dpwe/resources/matlab/
- 
+Sophocles J. Orfanidis  | Electromagnetic Waves and Antennas |https://www.ece.rutgers.edu/~orfanidi/ewa/
+
 ## Tools
 What | URL
 ---|---
