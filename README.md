@@ -11,6 +11,7 @@ Vesa Välimäki     | Audio Signal Processing                  | http://users.sp
 David Forsyth     | Computer Vision & Machine Learning       | http://luthuli.cs.uiuc.edu/~daf/courses/
 Dan Ellis         | Audio Processing                         | https://www.ee.columbia.edu/~dpwe/resources/matlab/
 Sophocles J. Orfanidis  | Electromagnetic Waves and Antennas |https://www.ece.rutgers.edu/~orfanidi/ewa/
+Julius Smith      | Audio DSP                                | https://ccrma.stanford.edu/~jos/
 
 ## Tools
 What | URL
