@@ -34,6 +34,7 @@ Acoustics Today                                              | https://acoustics
 What | URL
 ---|---
 Robert Bristow-Johnson - Audio EQ Cookbook | https://webaudio.github.io/Audio-EQ-Cookbook/Audio-EQ-Cookbook.txt
+Chris Veness - Calculate distance, bearing and more between Latitude/Longitude points | http://www.movable-type.co.uk/scripts/latlong.html
 
 ## Source Links
 - https://dspace.mit.edu/
