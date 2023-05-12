@@ -12,6 +12,7 @@ David Forsyth     | Computer Vision & Machine Learning       | http://luthuli.cs
 Dan Ellis         | Audio Processing                         | https://www.ee.columbia.edu/~dpwe/resources/matlab/
 Sophocles J. Orfanidis  | Electromagnetic Waves and Antennas |https://www.ece.rutgers.edu/~orfanidi/ewa/
 Julius Smith      | Audio DSP                                | https://ccrma.stanford.edu/~jos/
+Wayne E. Stark    | Digital Communications Theory            | https://www.eecs.umich.edu/courses/eecs555/
 
 ## Tools
 What | URL
@@ -33,8 +34,9 @@ Acoustics Today                                              | https://acoustics
 ## Various
 What | URL
 ---|---
-Robert Bristow-Johnson - Audio EQ Cookbook | https://webaudio.github.io/Audio-EQ-Cookbook/Audio-EQ-Cookbook.txt
+Robert Bristow - Johnson - Audio EQ Cookbook | https://webaudio.github.io/Audio-EQ-Cookbook/Audio-EQ-Cookbook.txt
 Chris Veness - Calculate distance, bearing and more between Latitude/Longitude points | http://www.movable-type.co.uk/scripts/latlong.html
+Rick Lyons  - Digital Envelope Detection: The Good, the Bad, and the Ugly | https://www.dsprelated.com/showarticle/938.php
 
 ## Source Links
 - https://dspace.mit.edu/
